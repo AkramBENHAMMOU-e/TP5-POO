@@ -11,7 +11,7 @@ A comprehensive JavaFX application for managing professors and departments in an
 - Intuitive graphical user interface
 
 ## Screenshots
-![Professeurs](screenshots/Prof.png)
+![Professeurs](screenShots/Prof.png)
 
 ![Ajouter professeurs](screenshots/AjoutProf.png)
 
