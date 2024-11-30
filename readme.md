@@ -13,18 +13,18 @@ A comprehensive JavaFX application for managing professors and departments in an
 ## Screenshots
 ![Professeurs](screenShots/Prof.png)
 
-![Ajouter professeurs](screenshots/AjoutProf.png)
+![Ajouter professeurs](screenShots/AjoutProf.png)
 
-![Modifier professeur](screenshots/ModifProf.png)
+![Modifier professeur](screenShots/ModifProf.png)
 
-![Supprimer professeur](screenshots/SuppProf.png)
+![Supprimer professeur](screenShots/SuppProf.png)
 
-![Affecter un professeur](screenshots/AffectProf.png)
+![Affecter un professeur](screenShots/AffectProf.png)
 
-![Department](screenshots/depart.png)
+![Department](screenShots/depart.png)
 
 ## Class diagram
-![Department](screenshots/classDiag.png)
+![Department](screenShots/classDiag.png)
 ## System Architecture
 
 ### Models
