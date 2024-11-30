@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox prefHeight="455.0" prefWidth="569.0" spacing="10" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ma.chat.tp5poo.controller.DepartementController">
+    <padding>
+        <Insets bottom="10" left="10" right="10" top="10" />
+    </padding>
+
+    <HBox alignment="CENTER_LEFT" spacing="10">
+        <Button onAction="#handleAdd" text="Ajouter Département" />
+    </HBox>
+
+    <TableView fx:id="departementTable" prefHeight="400.0" prefWidth="340.0" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="idColumn" prefWidth="96.0" text="ID" />
+            <TableColumn fx:id="nomColumn" prefWidth="165.0" text="Nom" />
+            <TableColumn fx:id="actionsColumn" prefWidth="287.0" text="Actions" />
+        </columns>
+    </TableView>
+</VBox>
